@@ -3,7 +3,6 @@ package com.xingkaichun.helloworldblockchain.util;
 import org.slf4j.LoggerFactory;
 
 /**
- * 日志工具
  *
  * @author 邢开春 xingkaichun@qq.com
  */

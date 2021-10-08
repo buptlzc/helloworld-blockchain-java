@@ -3,7 +3,6 @@ package com.xingkaichun.helloworldblockchain.util;
 import com.google.gson.Gson;
 
 /**
- * JSON工具
  *
  * @author 邢开春 xingkaichun@qq.com
  */

@@ -4,7 +4,6 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 
 /**
- * 系统工具类
  *
  * @author 邢开春 xingkaichun@qq.com
  */
